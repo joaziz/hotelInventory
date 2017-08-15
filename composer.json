@@ -1,0 +1,11 @@
+{
+    "name": "root/hotel-search",
+    "type": "microservice",
+    "authors": [
+        {
+            "name": "Yousif aziz",
+            "email": "yousif.aziz@applexicon.com"
+        }
+    ],
+    "require": {}
+}
